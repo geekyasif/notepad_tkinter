@@ -1,2 +1,3 @@
 # notepad_tkinter
-Notepad Clone using
+Notepad Clone using Tkinter
+
